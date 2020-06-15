@@ -1,1 +1,4 @@
 This is a second file in the repo. Now there are two when once there was one.
+I have added as second line to this file from my computer at home. After I add
+it to the repo, commit it and push it back to GitHub, it will be there for all
+to see.
